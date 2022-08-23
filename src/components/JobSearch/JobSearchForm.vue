@@ -39,7 +39,7 @@
         <label class="absolute left-0 -top-10">Where?</label>
         <text-input
           v-model="location"
-          placeholder="Los Angeles"
+          placeholder="Toronto"
           data-test="location-input"
         />
       </div>

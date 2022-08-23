@@ -12,7 +12,7 @@
       <job-filters-sidebar-prompt />
 
       <accordion header="Skills and Qualifications">
-        <job-filters-sidebar-skills />
+        <JobFiltersSidebarSkills />
       </accordion>
 
       <accordion header="Degrees">

@@ -13,7 +13,7 @@
         <router-link
           :to="{ name: 'Home' }"
           class="flex items-center h-full text-xl"
-          >Bobo Careers</router-link
+          >Maisie's Services</router-link
         >
 
         <nav class="h-full ml-12">
@@ -71,7 +71,7 @@ export default defineComponent({
       menuItems: [
         { text: "Teams", url: "/teams" },
         { text: "Locations", url: "/" },
-        { text: "Life at Bobo", url: "/" },
+        { text: "Life at Maisie's", url: "/" },
         { text: "How we hire", url: "/" },
         { text: "Students", url: "/" },
         { text: "Jobs", url: "/jobs/results" },
